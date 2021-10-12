@@ -1,3 +1,28 @@
 body {
   background-color: antiquewhite;
 }
+h1,
+p {
+  text-align: center;
+}
+.navigation {
+  display: block;
+}
+
+.link {
+  text-decoration: none;
+  color: brown;
+  padding: 10px;
+}
+.link:hover {
+  cursor: pointer;
+  opacity: 70%;
+}
+footer {
+  text-align: center;
+}
+
+.croissantImg {
+  display: block;
+  margin: 0 auto;
+}
